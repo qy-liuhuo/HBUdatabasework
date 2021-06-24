@@ -1,0 +1,5 @@
+# HBUdatabasework
+HBU数据库大作业及计算机设计大赛划水作品
+基于Thinkphp5后台框架及Layui前端框架
+开发语言为HTML CSS JavaScript PHP
+使用Mysql数据库
